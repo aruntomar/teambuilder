@@ -1,0 +1,25 @@
+Case study:
+
+Assumptions:
+
+You are an organization who gets a lot of candidates for their job requirements. 
+Either you don't have an HR for your business or your HR team strenght is very less. 
+You are open to trying new alternatives. 
+You are open to using technology to try to solve your problems to scale your business. 
+Every organization has a somewhat different recruitment process.
+You receive the application/resumes via mail to a certain mail id eg: jobs@companyname.com
+
+
+Sample size of applicant's 1000.
+
+Suppose you've received 1000 applicant's resume for your job requirements that you published in various format's like pdf, rtf, doc etc.
+
+Pain points:
+
+It's a pain to manually read/scan through all those mails and shortlist candidates.
+Every resume is in a different format.
+We can't automatically filter candidates based on our criteria/parameters. eg: Filter/list all candidates above 70% in their graduation. 
+It's a big pain to send mails manually to all the candidates informing them about shortlisting, further process and any other communication. 
+Scheduling the interviews becomes a pain/nightmare, especially if multiple people/interviewers are involved.
+Need to keep track of the notes/feedback about the candidate at each round by the interviewer, so that it can be reviewed later.
+
