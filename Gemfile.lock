@@ -61,7 +61,7 @@ GEM
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    ffi (1.1.1)
+    ffi (1.11.1)
     gherkin (2.11.1)
       json (>= 1.4.6)
     hike (1.2.1)
